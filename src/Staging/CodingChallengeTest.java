@@ -23,7 +23,4 @@ class CodingChallengeTest {
 		int answer = CodingChallenge.findNumberOfSquare(1, 1000000000);
 		assertEquals(31622, answer);
 	}
-
-
-
 }
